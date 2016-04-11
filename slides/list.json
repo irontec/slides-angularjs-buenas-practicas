@@ -1,0 +1,56 @@
+[
+    "00-index.md",
+    [
+        "01-intro-00.md",
+        "01-intro-01.md"
+    ], [
+        "02-responsability-00.md",
+        "02-responsability-01.md",
+        "02-responsability-02.md",
+        "02-responsability-03.md",
+        "02-responsability-04.md",
+        "02-responsability-05.md"
+    ], [
+        "03-iife-00.md",
+        "03-iife-01.md",
+        "03-iife-02.md",
+        "03-iife-03.md"
+    ], [
+        "04-name-collision-00.md",
+        "04-name-collision-01.md"
+    ], [
+        "05-modules-00.md",
+        "05-modules-01.md",
+        "05-modules-02.md",
+        "05-modules-03.md",
+        "05-modules-04.md"
+    ], [
+        "06-controller-as-00.md",
+        "06-controller-as-01.md",
+        "06-controller-as-02.md",
+        "06-controller-as-03.md"
+    ], [
+        "07-anonymous-functions-00.md",
+        "07-anonymous-functions-01.md",
+        "07-anonymous-functions-02.md",
+        "07-anonymous-functions-03.md",
+        "07-anonymous-functions-04.md",
+        "07-anonymous-functions-05.md"
+    ], [
+        "08-bindable-members-up-top-00.md",
+        "08-bindable-members-up-top-01.md",
+        "08-bindable-members-up-top-02.md",
+        "08-bindable-members-up-top-03.md"
+    ], [
+        "09-defer-controller-logic-00.md",
+        "09-defer-controller-logic-01.md",
+        "09-defer-controller-logic-02.md",
+        "09-defer-controller-logic-03.md"
+    ], [
+        "10-snippets-00.md",
+        "10-snippets-01.md",
+        "10-snippets-02.md"
+    ], [
+        "11-final-00.md"
+    ]
+]
